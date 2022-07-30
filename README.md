@@ -5,7 +5,9 @@
 
 ### In development...
 - AUTech: iOS app that allows you to easily check the timetable of the Aichi University of Technology portal site
+  - TestCode: [PortalLogin](https://github.com/ShouriWiN/PortalLogin)
   - [PC表示にしか対応してない大学のポータルサイトの時間割を見やすくアプリで表示する](https://qiita.com/ShWiN/items/0c5ce42b8e84bfac5c55)
+  
 
 ### Intern
 - 2022/7/29 [WonderPlanet Inc.](https://wonderpla.net/) 1 Day Intern (Engineer)
