@@ -9,7 +9,7 @@
   - *demo app: [PortalLogin](https://github.com/ShouriWiN/PortalLogin)
   
 - [CalendError](https://github.com/ShouriWiN/CalendError): iOS app that allows you to tag and record your own mistakes. (team development)
-  - Calendar + Error(mistakes)
+  - CalendError: Calendar + Error(mistakes)
 
 ### Intern
 - 2022/7/29 [WonderPlanet Inc.](https://wonderpla.net/) 1 Day Intern (Engineer)
