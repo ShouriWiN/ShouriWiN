@@ -14,6 +14,7 @@
 ### Intern
 - 2022/7/29 [WonderPlanet Inc.](https://wonderpla.net/) 1 Day Intern (Engineer)
 - 2022/8/25~2022/9/15 [coconala Inc.](https://coconala.co.jp/) coconala internship 2022
+- 2022/9/23~2022/9/24 [RecoChoku Co.,Ltd.](https://recochoku.jp/corporate/) 2 Days Hackathon intern (Engineer)
 
 ### Links
 - [Qiita](https://qiita.com/ShWiN)
